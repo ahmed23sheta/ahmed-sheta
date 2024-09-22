@@ -46,7 +46,7 @@
 
 - ![University Badge](https://img.shields.io/badge/Mansoura_University-0055A4?style=flat&logo=university&logoColor=white)
 - ![GPA Badge](https://img.shields.io/badge/GPA-3.33/4.0-brightgreen)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202019%20–%20July%202024-yellow)
 
 ---
 
