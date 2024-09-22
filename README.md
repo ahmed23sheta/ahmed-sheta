@@ -21,20 +21,17 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-khaled-0608a9236" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/ahmed-sheta-571117202/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Ahmed Sheta" height="40" width="40" />
   </a>
-  <a href="https://kaggle.com/abdullah7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
+  <a href="https://www.kaggle.com/ahmed23sheta" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Ahmed Sheta " height="40" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
+  <a href="https://www.hackerrank.com/profile/ahmedsheta269" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Ahmed Sheta " height="40" width="40" />
   </a>
-  <a href="https://wa.me/+201557504902" target="_blank">
+  <a href="https://wa.me/+201029149837" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://t.me" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
   </a>
 </p>
 
